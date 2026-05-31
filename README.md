@@ -23,7 +23,7 @@ My projects span:
  
 ### Connect
  
-- [LinkedIn](www.linkedin.com/in/madhu-damani)
+- [LinkedIn](https://www.linkedin.com/in/madhu-damani)
 - [Email](mailto:damanimadhuraj@gmail.com)
 > "Without data, you're just another person with an opinion." – W. Edwards Deming
  
