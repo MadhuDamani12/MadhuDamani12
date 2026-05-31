@@ -6,7 +6,7 @@ my MSBA at the Carlson School of Management (graduating August 2026).
 
 What sets my work apart is the combination — I approach analytics 
 problems with both technical rigor and the business context that comes 
-from years of working directly with decision-makers.
+from prior experience of working directly with decision-makers.
 
 My projects span:
 
