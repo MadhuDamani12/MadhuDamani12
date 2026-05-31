@@ -4,9 +4,11 @@ I'm a data and strategy professional with prior experience as a
 Business Analyst and Senior Strategy Consultant, currently completing 
 my MSBA at the Carlson School of Management (graduating August 2026).
 
-What sets my work apart is the combination — I approach analytics 
+What sets my work apart is the combination - I approach analytics 
 problems with both technical rigor and the business context that comes 
-from prior experience of working directly with decision-makers.
+from prior experience of working directly with decision-makers.  I bring a combination of analytical expertise, 
+strategic thinking, and leadership experience, ready to translate data into decisions that support the 
+organization’s success.
 
 My projects span:
 
