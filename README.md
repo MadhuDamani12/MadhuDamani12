@@ -1,16 +1,20 @@
-## Hi There! 👋
- 
-I'm **Madhu Damani**, a data and strategy professional with 3+ years of prior experience as a Business Analyst and Senior Strategy Consultant, currently completing my MBSA at the Carlson School of Management (graduating August 2026).
- 
-I bring a combination of analytical expertise, strategic thinking, and leadership experience - translating data into decisions that drive organizational success. I do not just work with data; I make it work for you. 
- 
-My projects include:
- 
-- Building predictive models and machine learning pipelines
-- Conducting causal inference and experimental analysis
-- Designing dashboards and data visualizations for business stakeholders
-- Exploratory data analysis and storytelling with complex datasets
-- SQL-driven business analysis and reporting
+Hi, I'm Madhu 👋
+
+I'm a data and strategy professional with prior experience as a 
+Business Analyst and Senior Strategy Consultant, currently completing 
+my MSBA at the Carlson School of Management (graduating August 2026).
+
+What sets my work apart is the combination — I approach analytics 
+problems with both technical rigor and the business context that comes 
+from years of working directly with decision-makers.
+
+My projects span:
+
+- Causal inference and experimental design to measure true business impact
+- Predictive modeling and machine learning pipelines
+- Business intelligence dashboards that translate data into executive decisions
+- SQL-driven analysis and exploratory data storytelling
+- NLP-powered tools for data accessibility
 ---
 
 👉 **[See My Repositories](https://github.com/MadhuDamani12?tab=repositories)**
