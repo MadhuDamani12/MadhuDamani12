@@ -12,16 +12,7 @@ My projects include:
 - Exploratory data analysis and storytelling with complex datasets
 - SQL-driven business analysis and reporting
 ---
- 
-### Explore My Work
- 
-Check out my repositories for projects spanning:
- 
-- Predictive modeling and machine learning
-- Causal analysis and experimentation
-- Business intelligence and dashboards
-- Exploratory data analysis
-- SQL and business analytics
+
 👉 **[See My Repositories](https://github.com/MadhuDamani12?tab=repositories)**
  
 ---
